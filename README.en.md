@@ -4,7 +4,7 @@
 
 ## 📖 User Guide
 
-Complete guide (landing page + walkthrough): **https://inematds.github.io/fable51-system-prompt/guia/en/**
+Complete guide (landing page + walkthrough): **https://linnoff88-dev.github.io/
 
 Reference material about the **Claude Fable 5.1 system prompt**: what Anthropic publishes, what appears in the public extraction of the Claude.ai runtime, what changed compared with Fable 5, and the practical worksheets derived from it. This is the **project**; the **course** that teaches this content is separate (see the end).
 
@@ -57,8 +57,8 @@ Everything is dated: dump from 2026-09-02, analysis from 2026-09-05. The product
 
 ## Course
 
-- **Fable 5.1 in practice — what changed, how to use it, how to spend less** (3 tracks, 9 modules): repository [`inematds/fable51-system`](https://github.com/inematds/fable51-system) · page https://inematds.github.io/fable51-system/
-- Related: **Architecture of Intent — Day 4, The Turn** (models that operate on intent): https://inematds.github.io/arquitetura-de-intencao/dia-4.html
+- **Fable 5.1 in practice — what changed, how to use it, how to spend less** (3 tracks, 9 modules): repository [`linnoff88-dev/fable51-system`](https://github.com/linnoff88-dev/fable51-system) · page https://linnoff88-dev.github.io/
+- Related: **Architecture of Intent — Day 4, The Turn** (models that operate on intent): https://linnoff88-dev.github.io/
 
 ---
-INEMA.CLUB · 2026
+ARCKHÉ AI · 2026

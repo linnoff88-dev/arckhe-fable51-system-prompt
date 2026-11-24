@@ -1,6 +1,6 @@
 # Escrever para o Fable 5.1 — regras extraídas do prompt de sistema e da orientação de migração
 
-Origem: módulo 2.3 do curso `fable51-system` + guias oficiais de prompting do Fable 5 / 5.1. Complementa o Dia 4 de [Arquitetura de Intenção](https://inematds.github.io/arquitetura-de-intencao/dia-4.html).
+Origem: módulo 2.3 do curso `fable51-system` + guias oficiais de prompting do Fable 5 / 5.1. Complementa o Dia 4 de [Arquitetura de Intenção](https://linnoff88-dev.github.io/
 
 ## 1. Tire o andaime
 

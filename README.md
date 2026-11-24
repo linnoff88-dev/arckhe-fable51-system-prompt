@@ -1,4 +1,4 @@
-﻿# Fable 5.1 â€” prompt de sistema (projeto de referÃªncia)
+# Fable 5.1 â€” prompt de sistema (projeto de referÃªncia)
 
 <div align="center">
   <img src="capa/logo.svg" alt="Arckhé AI" height="48" />
@@ -10,7 +10,7 @@
 
 ## ðŸ“– Guia de uso
 
-Guia completo (landing + passo a passo): **https://inematds.github.io/fable51-system-prompt/guia/**
+Guia completo (landing + passo a passo): **https://linnoff88-dev.github.io/
 
 Material de referÃªncia sobre o **prompt de sistema do Claude Fable 5.1**: o que a Anthropic publica, o que aparece na extraÃ§Ã£o pÃºblica do runtime do Claude.ai, o que mudou em relaÃ§Ã£o ao Fable 5, e as fichas prÃ¡ticas derivadas disso. Ã‰ o **projeto**; o **curso** que ensina esse conteÃºdo vive separado (ver o fim).
 
@@ -63,11 +63,11 @@ Tudo datado: dump de 2026-09-02, anÃ¡lise de 2026-09-05. O produto muda; reaud
 
 ## Curso
 
-- **Fable 5.1 na prÃ¡tica â€” o que mudou, como usar, como gastar menos** (3 trilhas, 9 mÃ³dulos): repositÃ³rio [`inematds/fable51-system`](https://github.com/inematds/fable51-system) Â· pÃ¡gina https://inematds.github.io/fable51-system/
-- Relacionado: **Arquitetura de IntenÃ§Ã£o â€” Dia 4, A Virada** (modelos que operam na intenÃ§Ã£o): https://inematds.github.io/arquitetura-de-intencao/dia-4.html
+- **Fable 5.1 na prÃ¡tica â€” o que mudou, como usar, como gastar menos** (3 trilhas, 9 mÃ³dulos): repositÃ³rio [`linnoff88-dev/fable51-system`](https://github.com/linnoff88-dev/fable51-system) Â· pÃ¡gina https://linnoff88-dev.github.io/
+- Relacionado: **Arquitetura de IntenÃ§Ã£o â€” Dia 4, A Virada** (modelos que operam na intenÃ§Ã£o): https://linnoff88-dev.github.io/
 
 ---
-INEMA.CLUB Â· 2026
+ARCKHÉ AI Â· 2026
 
 ---
 
