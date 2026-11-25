@@ -1,14 +1,14 @@
 # Índice do dump — runtime do Claude.ai para o Fable 5.1
 
-Arquivo: `doc/Claude-Fable-5.1.md` (local, não publicado) · 275,723 bytes · 2,196 linhas · 40.046 palavras (contagem por espaço, bate com o Field Guide) · md5 `be4cb3a5103be5c1c581afac2a04b1d0`
+Arquivo: `doc/Claude-Fable-5.1.md` (local, nêo publicado) · 275,723 bytes · 2,196 linhas · 40.046 palavras (contagem por espaço, bate com o Field Guide) · md5 `be4cb3a5103be5c1c581afac2a04b1d0`
 
-Fonte: extração pública não autenticada (repositório CL4R1T4S, pasta ANTHROPIC), congelada em 2026-09-02. A Anthropic publica apenas o **prompt central**; tudo abaixo de `memory_filesystem` em diante é a camada de produto que aparece só no dump.
+Fonte: extraçêo pública nêo autenticada (repositório CL4R1T4S, pasta ANTHROPIC), congelada em 2026-09-02. A Anthropic publica apenas o **prompt central**; tudo abaixo de `memory_filesystem` em diante é a camada de produto que aparece só no dump.
 
-Este índice é gerado por script (`build/indice.py`) e traz só metadados: nome da seção, linhas e tamanho. Não reproduz o conteúdo.
+Este índice é gerado por script (`build/indice.py`) e traz só metadados: nome da seçêo, linhas e tamanho. Nêo reproduz o conteúdo.
 
 ## Seções de nível superior (tags no início de linha)
 
-| # | Seção | Linhas | Tamanho | Grupo |
+| # | Seçêo | Linhas | Tamanho | Grupo |
 |---|---|---|---|---|
 | 1 | `product_information` | 2–24 | 23 linhas | prompt central |
 | 2 | `refusal_handling` | 25–79 | 55 linhas | prompt central |
@@ -67,5 +67,5 @@ Contagem do script; o Field Guide chega a 46 porque também conta widgets visuai
 2. `memory_filesystem` (189–1024): 38% do arquivo. Limites do que nunca é armazenado, quando a memória entra na resposta, frases proibidas.
 3. `past_chats_tools` (1195–1224): pistas linguísticas que disparam busca em conversas antigas.
 4. `request_evaluation_checklist` + `when_to_use_visualizer_for_inline_visuals` (1368–1419): a rotina de 4 passos antes de um visual.
-5. `search_instructions` (1441–1678): quando buscar, anti-cópia (1 citação curta por fonte).
+5. `search_instructions` (1441–1678): quando buscar, anti-cópia (1 citaçêo curta por fonte).
 6. `functions` (1761–1808) e os blocos `<skill>` (2044–2174): o que existe como ferramenta e o que é lido antes de gerar arquivo.

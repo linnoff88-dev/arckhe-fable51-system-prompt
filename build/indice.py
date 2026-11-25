@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Gera INDICE-DO-DUMP.md a partir de doc/Claude-Fable-5.1.md (só metadados, não reproduz conteúdo).
+"""Gera INDICE-DO-DUMP.md a partir de doc/Claude-Fable-5.1.md (só metadados, nêo reproduz conteúdo).
 Uso: python3 build/indice.py  (na raiz do projeto)"""
 import re, hashlib
 p = 'doc/Claude-Fable-5.1.md'
